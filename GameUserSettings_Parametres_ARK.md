@@ -1,6 +1,6 @@
 | Paramètre                                | Valeur                  | Description                                                  |
 |:-----------------------------------------|:------------------------|:-------------------------------------------------------------|
-| ServerAdminPassword                      | YywX#ENxOHwTb4myp%9%X@d | Mot de passe admin pour les commandes administrateur         |
+| ServerAdminPassword                      | CHANGEME                | Mot de passe admin pour les commandes administrateur         |
 | ShowMapPlayerLocation                    | True                    | Affiche la position du joueur sur la carte                   |
 | AllowThirdPersonPlayer                   | True                    | Autorise la vue à la 3e personne                             |
 | ServerCrosshair                          | True                    | Affiche le réticule (viseur) à l’écran                       |
